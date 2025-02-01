@@ -24,7 +24,7 @@ This is a simple weather application that fetches weather data from the OpenWeat
 ### Steps to Run Locally  
 1. Clone the repository:  
    ```sh  
-   git clone https://github.com/yourusername/weather-app.git  
+   git clone https://github.com/VipulSingh1407/Weather.git
    ```
 2. Navigate to the project directory:  
    ```sh  
